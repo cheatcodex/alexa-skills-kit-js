@@ -28,7 +28,7 @@
 /**
  * App ID for the skill
  */
-var APP_ID = undefined;//replace with 'amzn1.echo-sdk-ams.app.[your-unique-value-here]';
+var APP_ID = amzn1.ask.skill.dfa1d78b-a4de-4d0d-aaad-abfeb85502c4;//replace with 'amzn1.echo-sdk-ams.app.[your-unique-value-here]';
 
 /**
  * Array containing knock knock jokes.
